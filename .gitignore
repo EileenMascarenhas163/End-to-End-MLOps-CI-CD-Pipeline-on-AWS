@@ -1,0 +1,17 @@
+venv/
+read.md
+.env
+.DS_Store
+.pytest_cache/
+.ruff_cache/
+.mypy_cache/
+.vscode/
+.idea/
+.env.local
+.env.development.local
+.env.test.local
+.env.production.local
+mlops_professional_architecture.png
+mlruns/
+mlflow.db
+
