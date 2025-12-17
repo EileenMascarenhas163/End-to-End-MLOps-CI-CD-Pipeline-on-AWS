@@ -1,10 +1,10 @@
 
 
 # End-to-End MLOps CI/CD Pipeline on AWS
-![alt text](./images/10.png)
-![alt text](./images/1.png)
-![alt text](./images/2.png)
-![alt text](./images/3.png)
+![alt text](./images/10.PNG)
+![alt text](./images/1.PNG)
+![alt text](./images/2.PNG)
+![alt text](./images/3.PNG)
 ![alt text](./images/5.png)
 ![alt text](./images/7.png)
 ![alt text](./images/8.png)
